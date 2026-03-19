@@ -1,11 +1,11 @@
-🎮 The Best Game In The World!
+## 🎮 The Best Game In The World!
 
 Ironically named… or maybe not =)
 The Best Game In The World is a single-player side-scroller game developed as a personal project with the goal of studying programming logic, game mechanics, and creative development.
 Over time, the project evolved beyond just a learning exercise and became something with its own identity - featuring custom assets, gameplay systems, and mechanics designed and implemented from scratch.
 
 
-🧠 About the Project
+## 🧠 About the Project
 This game was built as a hands-on way to explore:
 - Game development fundamentals
 - Player movement and physics
@@ -16,7 +16,7 @@ This game was built as a hands-on way to explore:
 - If you know Diablo or Runescape, you will probably be familiar with some aspects of the game.
 
 
-🚀 Purpose
+## 🚀 Purpose
 
 This project was created primarily for learning and experimentation.
 
@@ -25,7 +25,7 @@ It reflects:
 - My approach to solving problems
 - My ability to build something end-to-end
 
-📸 Screenshots / Gameplay
+## 📸 Screenshots / Gameplay
 
 I know you know this screen:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/31bdd55e-70b6-4279-a790-424abf6980c8" />
@@ -61,7 +61,7 @@ Sometimes it goes well:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8492c04d-1eea-4cee-9d60-4492f2d0f318" />
 
 
-🎮 Quick Tutorial
+## 🎮 Quick Tutorial
 
 Getting started is simple… surviving is another story.
 - You can move using WASD or the arrow keys (← ↑ ↓ →)
@@ -70,7 +70,7 @@ Getting started is simple… surviving is another story.
 - Not everyone is allowed to pass. Only those who meet the unseen requirements may proceed.
 - There might be a next level… or there might not be. The portal only responds to those who are worthy.
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 Despite the name, this may or may not be actually the best game in the world.
 Results may vary =)
